@@ -1,0 +1,65 @@
+/* Style Settings */
+
+@import url('https://css.cdn.soy/yt/karla.css');
+:root {
+    --bgColor: rgb(0, 0, 0);
+    --accentColor: #E6E6E6;
+    --font: 'Karla', sans-serif;
+}
+
+
+
+body {
+    background-image: url("https://img.cdn.soy/bl/banner.png");
+    background-repeat: repeat;
+    background-size: 5500 × 5500;
+  background-position: center center;
+  background-attachment: fixed;
+  background-color: #000000;
+}
+
+#userPhoto {
+    width: 110px;
+    height: 110px;
+    display: block;
+    margin: 35px auto 20px;
+    border-radius: 50%;
+}
+
+#userName {
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1.25;
+    display: block;
+    font-family: var(--font);
+    width: 100%;
+    text-align: center;
+    text-decoration: none;
+}
+
+#links {
+    max-width: 675px;
+    width: auto;
+    display: block;
+    margin: 27px auto;
+}
+
+.link {
+    display: block;
+    background-color: var(--accentColor);
+    color: var(--bgColor);
+    font-family: var(--font);
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 17px;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: all .25s cubic-bezier(.08, .59, .29, .99);
+    border: solid var(--accentColor) 2px;
+}
+
+.link:hover {
+    background-color: var(--bgColor);
+    color: var(--accentColor);
+}
