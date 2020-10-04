@@ -147,7 +147,7 @@ h1 {
 }
 .w3hubs-nav2 ul li a{
 	text-decoration: none;
-	color: #272727;
+	color: #404040;
 	font-size: 25px;
 	display: block;
 }
@@ -155,7 +155,7 @@ h1 {
 	line-height: 50px;
 }
 .w3hubs-nav2 ul li:hover{
-	background: #e67e22;
+	background: #404040;
 }
 .w3hubs-nav2 ul li a:hover >i{
 	transform: scale(1.6) rotate(180deg);
@@ -174,7 +174,7 @@ h1 {
 	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	text-align: center;
-	color: #404040;
+	color: #FFFFFF;
 	font-weight: bold;
 	letter-spacing: 2px;
 
