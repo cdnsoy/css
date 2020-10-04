@@ -49,7 +49,7 @@ h1 {
 	height: 50px;
 	margin: 0px 10px;
 	border-radius: 100%;
-	background:#7DCEA0; 
+	background:#404040; 
 }
 .w3hubs-icon ul li a{
 	text-decoration: none;
@@ -143,7 +143,7 @@ h1 {
 	height: 50px;
 	margin: 0px 10px;
 	border-radius: 100%;
-	background:#fff; 
+	background:#404040; 
 }
 .w3hubs-nav2 ul li a{
 	text-decoration: none;
@@ -185,7 +185,7 @@ text-decoration: none;
 color: #404040
 }
 .footer-end a:hover{
-	color:  #404040;
+	color: #404040;
 }
 
 @media(max-width:691px ){
